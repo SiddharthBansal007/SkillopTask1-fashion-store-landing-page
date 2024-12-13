@@ -1,4 +1,9 @@
 {
+  "homepage": "https://SiddharthBansal007.github.io/SkillopTask1-fashion-store-landing-page",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "name": "blog",
   "version": "0.1.0",
   "private": true,
