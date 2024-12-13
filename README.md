@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Fashion Store Landing Page Design
+
+This is **Task 1** for **SkillOp DTU**, where I created a fashion store landing page inspired by the design and layout of [Ruhastore](https://www.ruhastore.in/). The project showcases a responsive and visually appealing landing page using **React** and **Tailwind CSS**.
+>>>>>>> a1b341ed5a36d1d7e7d5577de6f1b56db4485c00
